@@ -1,0 +1,7 @@
+Download files from Google Drive
+
+Filename: model_shakespeare_kiank_350_epoch.h5
+Link: https://drive.google.com/open?id=18kuZj9VhjMdShVFYIvXMVC8_GApqulT5
+
+Filename: model_shakespeare_kiank.h5
+Link: https://drive.google.com/open?id=1pIvbnbdkkKrBBIG75lXoZ7SLCSfEe20v

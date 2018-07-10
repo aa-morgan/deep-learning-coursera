@@ -1,0 +1,10 @@
+Download files from Google Drive
+
+Filename: train.wav
+Link: https://drive.google.com/open?id=1s1_3YdpHx8TNkiYexRZuuVt9taIKKGVT
+
+Filename: chime_output.wav
+Link: https://drive.google.com/open?id=1aEn2dgWPkDK7uS6J5niNun0yujDL7pd2
+
+Filename: insert_test.wav
+Link: https://drive.google.com/open?id=1A2BJASONwOwu2W-GOQ18QOIB8gt1Lu0Z

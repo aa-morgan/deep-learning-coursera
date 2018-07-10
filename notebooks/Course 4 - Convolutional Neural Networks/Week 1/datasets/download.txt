@@ -1,0 +1,7 @@
+Download files from Google Drive
+
+Filename: train_signs.h5
+Link: https://drive.google.com/open?id=1Ju_BxyQrICvhPhffeLis6w3ZZfZ4CT9X
+
+Filename: test_signs.h5
+Link: https://drive.google.com/open?id=1exnKSG4jGWe16EaMRMRjkdkUx_-UXwp1
